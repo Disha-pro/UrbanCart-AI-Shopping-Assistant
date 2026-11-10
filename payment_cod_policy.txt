@@ -1,0 +1,18 @@
+URBANCART — PAYMENT & CASH ON DELIVERY POLICY
+Version: Q2 2024 | Approved by: Payments & Risk
+
+1. ACCEPTED PAYMENT METHODS
+1.1 UPI, credit/debit cards, net banking, UrbanCart Wallet, and Cash on Delivery (COD).
+1.2 EMI is available on orders above Rs 3000 with select banks.
+
+2. CASH ON DELIVERY (COD)
+2.1 COD is available on orders up to Rs 20000.
+2.2 COD may not be available for certain pincodes or high-value items.
+2.3 A nominal COD handling fee of Rs 20 may apply on some orders.
+
+3. PAYMENT SECURITY
+3.1 UrbanCart never stores full card details; payments are processed via PCI-DSS compliant gateways.
+3.2 UrbanCart will never ask for your OTP, PIN, or full card number over chat or call.
+
+4. FAILED / DUPLICATE PAYMENTS
+4.1 If money is debited but the order is not confirmed, it is auto-refunded within 5-7 business days.
